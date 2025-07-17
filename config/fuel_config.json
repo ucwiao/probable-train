@@ -1,0 +1,5 @@
+{
+  "buy_threshold": 400,
+  "sell_threshold": 650,
+  "max_fuel_to_buy": 100000
+}
